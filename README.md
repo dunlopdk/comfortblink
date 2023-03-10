@@ -1,5 +1,5 @@
 # comfortblink
-Simple komfortblink for a Raspberry Pi Pico, this was made for a VW Lupo.
+Simple comfortblink for a Raspberry Pi Pico, this was made for a VW Lupo.
 You MUST absolutely obtain a relay board and attach it to the pins assigned leftblink and rightblink. I am not responsible for your pico, if you do not. It will fry the board. You also need a 5 volt source wether you use a usb charger or make your own 5 volt power supply is up to you.
 
 You must also attach some relays to your stalk wires, so a relay is closed when chosing direction. The relays are connected to a ground on the pico and the pins assigned for listenleft and listenright. The relays are only to be activated (closed connection), when a direction is chosen. One relay per direction.
