@@ -4,7 +4,7 @@ You MUST absolutely obtain a relay board and attach it to the pins assigned left
 
 You must also attach some relays to your stalk wires, so a relay is closed when chosing direction. The relays are connected to a ground on the pico and the pins assigned for listenleft and listenright. The relays are only to be activated (closed connection), when a direction is chosen. One relay per direction.
 
-Again I am NOT responsible for anything you do to your car, this code is only for your Pico anything beyond the code is not my responsibility.
+I am NOT responsible for anything you do to your car, this code is only for your Pico.
 
 
 The following settings can be changed to suit your needs
